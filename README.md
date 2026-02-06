@@ -1,23 +1,27 @@
+
 ## Key Concepts Practiced
 
-- Media queries for different screen sizes
-- Flexible units: %, em, rem
-- CSS selectors: element, class, ID
-- Box model: padding, margin, border
-- Flexbox for layout alignment
+- **CSS Positioning:** Using `static`, `relative`, `absolute`, `fixed`, and `sticky` to control element placement  
+- **Box Model:** Managing width, height, padding, margin, and borders for proper spacing  
+- **Flexbox:** Aligning and distributing elements horizontally and vertically  
+- **Grid Layout:** Organizing elements into rows and columns for structured layouts  
+- **Z-Index:** Controlling element stacking order
 
 ## Learnings
 
-- Differentiating CSS selectors
-- Structuring responsive layouts
-- Testing designs across devices
-- Linking and organizing CSS properly
+- How different positioning types affect layout and flow of elements  
+- Combining Flexbox and Grid for complex layouts  
+- Understanding stacking context and overlapping elements using z-index  
+- Proper spacing and alignment using box model properties  
+- Organizing CSS rules for maintainable layout design
 
-## Screenshots  
-![geekin/responsive design](submission/images/final2.png)  
+## Screenshots
+
+**Desktop Layout**  
+![Desktop Layout](submission/images/final2.Png)  
 
 ## How to View
 
-1. Clone the repo:
+1. Clone the repository:
 ```bash
-git clone https://github.com/sumybooks2025-code/responsive-design.git
+git clone https://github.com/yourusername/positioning-design.git
