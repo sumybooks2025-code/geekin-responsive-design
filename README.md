@@ -16,12 +16,10 @@
 - Organizing CSS rules for maintainable layout design
 
 ## Screenshots
-
-**Desktop Layout**  
-![Desktop Layout](submission/images/final2.Png)  
+![geekin/positioning](submission/images/final2.Png)  
 
 ## How to View
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/positioning-design.git
+git clone https://github.com/sumybooks2025-code/positioning-design.git
