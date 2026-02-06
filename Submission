@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sumys Varieties Online Store</title>
+
+  <!-- Link CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ===== NAVIGATION BAR (FLEXBOX) ===== -->
+<header class="navbar">
+  <div class="logo">Sumys Varieties Online Store</div>
+
+  <nav class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">Shop</a>
+    <a href="#">About Us</a>
+    <a href="#">Blog</a>
+    <a href="#">Contact</a>
+  </nav>
+</header>
+
+<!-- ===== MAIN CONTAINER ===== -->
+<div class="container">
+
+  <!-- LEFT COLUMN (70%) -->
+  <section class="left">
+    <h2>Welcome to Sumys Varieties Online Store</h2>
+    <p>Your one stop Shop for fashion,beauty,electronics and more.Great deals and fast shipping.
+</p>
